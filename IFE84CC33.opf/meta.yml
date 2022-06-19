@@ -1,0 +1,38 @@
+id: IFE84CC33
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T10:07:22.650201'
+last_modified: '2022-06-19T10:07:22.650214'
+parser: null
+source_metadata:
+  title: Hagiography of Yol mkhan chen gZhon nu blo gros (1527–1599/1600); Lamdre
+    Lobshe, vol. ga, title no. 2
+  author: blo gros rgyal mtshan/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-26); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/562
+  bases:
+    2bef:
+      title: Hagiography of Yol mkhan chen gZhon nu blo gros (1527–1599/1600); Lamdre
+        Lobshe, vol. ga, title no. 2
+      order: 1
+      base_file: 2bef.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
